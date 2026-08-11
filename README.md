@@ -1,3 +1,8 @@
+# 🛡️ NUPUR PRIYA
+
+### Cyber Security Student • Developer • Tech Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Cyber+Security+Student+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+Linux+%7C+Kali+Linux;Web+%7C+APIs+%7C+Databases;Telegram+Bots+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Secure" alt="Typing SVG" />
 <div align="center">
 
 <img src="./assets/nupur-banner.png" width="100%" alt="Nupur Priya - Cyber Security Portfolio Banner">
@@ -5,11 +10,6 @@
 </div>
 <div align="center">
 
-# 🛡️ NUPUR PRIYA
-
-### Cyber Security Student • Developer • Tech Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Cyber+Security+Student+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+Linux+%7C+Kali+Linux;Web+%7C+APIs+%7C+Databases;Telegram+Bots+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Secure" alt="Typing SVG" />
 
 <br>
 
