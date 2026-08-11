@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./assets/nupur-banner.png" width="100%" alt="Nupur Priya - Cyber Security Portfolio Banner">
+
+</div>
+<div align="center">
+
 # 🛡️ NUPUR PRIYA
 
 ### Cyber Security Student • Developer • Tech Explorer
